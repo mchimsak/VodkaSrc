@@ -1,3 +1,3 @@
 # VodkaSrc
-#By-Lightcolour
-#Copyright (c) 2018 浅色
+# By-Lightcolour
+# Copyright (c) 2018 浅色
